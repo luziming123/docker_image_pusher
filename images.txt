@@ -1,3 +1,8 @@
-alpine
-kasmweb/nginx:1.25.3
-python:alpine3.19
+makedie/fastapi-dls
+bililive/recorder
+networkstatic/iperf3
+finab/bark-server
+wizjin/chanify
+corentinth/it-tools
+louislam/uptime-kuma
+mikolatero/vlmcsd
