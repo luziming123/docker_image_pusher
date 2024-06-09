@@ -24,7 +24,7 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Process Images
-      run: ./scripts/process_images.sh
+      run: chmod +x ./scripts/process_images.sh && ./scripts/process_images.sh
       env:
         ALIYUN_REGISTRY_USER: ${{ secrets.ALIYUN_REGISTRY_USER }}
         ALIYUN_REGISTRY_PASSWORD: ${{ secrets.ALIYUN_REGISTRY_PASSWORD }}
