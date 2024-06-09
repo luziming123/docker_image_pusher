@@ -7,4 +7,10 @@
 #louislam/uptime-kuma
 #mikolatero/vlmcsd
 
-wangbinxingkong/fast
+#wangbinxingkong/fast
+
+registry
+ubuntu
+centos
+portainer/portainer-ce
+
