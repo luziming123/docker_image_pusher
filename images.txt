@@ -14,5 +14,11 @@
 #centos
 #portainer/portainer-ce
 
-gitlab/gitlab-runner:latest
+#gitlab/gitlab-runner:latest
 
+docker:dind
+docker
+netdata/netdata
+xiaoyaliu/alist:hostmode
+xiaoyaliu/alist:latest
+xiaoyaliu/alist:base
