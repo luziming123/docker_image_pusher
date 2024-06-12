@@ -1,20 +1,20 @@
-#makedie/fastapi-dls
-#bililive/recorder
-#networkstatic/iperf3
-#finab/bark-server
-#wizjin/chanify
-#corentinth/it-tools
-#louislam/uptime-kuma
-#mikolatero/vlmcsd
+makedie/fastapi-dls
+bililive/recorder
+networkstatic/iperf3
+finab/bark-server
+wizjin/chanify
+corentinth/it-tools
+louislam/uptime-kuma
+mikolatero/vlmcsd
 
-#wangbinxingkong/fast
+wangbinxingkong/fast
 
-#registry
-#ubuntu
-#centos
-#portainer/portainer-ce
+registry
+ubuntu
+centos
+portainer/portainer-ce
 
-#gitlab/gitlab-runner:latest
+gitlab/gitlab-runner:latest
 
 docker:dind
 docker
@@ -22,3 +22,6 @@ netdata/netdata
 xiaoyaliu/alist:hostmode
 xiaoyaliu/alist:latest
 xiaoyaliu/alist:base
+
+linuxserver/qbittorrent
+linuxserver/transmission
