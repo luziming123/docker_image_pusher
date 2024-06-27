@@ -1,27 +1,108 @@
-makedie/fastapi-dls
-bililive/recorder
-networkstatic/iperf3
-finab/bark-server
-wizjin/chanify
-corentinth/it-tools
-louislam/uptime-kuma
-mikolatero/vlmcsd
+#makedie/fastapi-dls
+#bililive/recorder
+#networkstatic/iperf3
+#finab/bark-server
+#wizjin/chanify
+#corentinth/it-tools
+#louislam/uptime-kuma
+#mikolatero/vlmcsd
+#wangbinxingkong/fast
+#registry
+#portainer/portainer-ce
+#gitlab/gitlab-ce
+#gitlab/gitlab-runner
+#gitlab/gitlab-runner-helper
+#docker
+#docker:dind
+#netdata/netdata
+#xiaoyaliu/alist
+#xiaoyaliu/alist:hostmode
+#xiaoyaliu/alist:base
+#linuxserver/qbittorrent
+#linuxserver/transmission
+#dockurr/windows
+#codercom/code-server
+#
+#
+##--------------------基础镜像--------------------
+#
+##ubuntu: 基于Ubuntu操作系统的镜像，有多个版本，如ubuntu:20.04, ubuntu:latest等。
+#ubuntu:latest
+#ubuntu:24.04
+#ubuntu:22.04
+#ubuntu:20.04
+#ubuntu:18.04
+#ubuntu:16.04
+#
+##debian: 基于Debian操作系统的镜像，同样有多个版本。
+#debian
+#debian:stable
+#
+#
+#
+##centos: CentOS Linux的镜像，例如centos:7正如您提到的。
+#centos
+#centos:7
+#
+##alpine: 非常轻量级的基于Alpine Linux的镜像，适合需要最小化环境的场景。
+#alpine
+#alpine:stable
+#
+##busybox: 一个极简主义的Unix工具集合镜像，适用于资源严格受限的环境。
+#busybox
+#busybox:stable
+#
+##--------------------网络工具镜像--------------------
+#
+##nginx: 一个轻量级的Web服务器和反向代理服务器。
+#nginx
+#nginx:stable
+#
+##apache: 一个开放源代码的Web服务器和反向代理服务器。
+#apache
+#apache:stable
+#
+##--------------------开发工具镜像--------------------
+#
+##vim: 一个轻量级的文本编辑器。
+#vim
+#vim:stable
+#
+##emacs: 一个功能强大的文本编辑器。
+#emacs
+#emacs:stable
+#
+##--------------------编程语言镜像--------------------
+#
+##python: 提供Python环境的基础镜像，支持不同版本。
+#
+##node: Node.js的基础镜像，可用于运行Node应用。
+#
+##openjdk/oraclejdk: 提供Java运行环境的镜像。
+#openjdk
+#openjdk:8-jdk
+#openjdk:11-jdk
+#openjdk:16-jdk
+#openjdk:17-jdk
+#openjdk:24-jdk
+#
+##golang: Go语言的基础镜像。
+#golang
+#golang:1.22
+#golang:1.21
+#golang:1.20
+#golang:1.19
+#golang:1.18
+#
+##ruby: Ruby语言的基础镜像。
+#ruby
+#
+##--------------------应用服务器和数据库镜像--------------------
+#
+##mysql: MySQL数据库服务器的基础镜像。
+##postgres: PostgreSQL数据库的基础镜像。
+##redis: Redis内存数据结构存储的基础镜像。
+##mongo: MongoDB数据库的基础镜像。
+##tomcat: Apache Tomcat应用服务器的基础镜像。
 
-wangbinxingkong/fast
-
-registry
-ubuntu
-centos
-portainer/portainer-ce
-
-gitlab/gitlab-runner:latest
-
-docker:dind
-docker
-netdata/netdata
-xiaoyaliu/alist:hostmode
-xiaoyaliu/alist:latest
-xiaoyaliu/alist:base
-
-linuxserver/qbittorrent
-linuxserver/transmission
+calcom.docker.scarf.sh/calcom/cal.com
